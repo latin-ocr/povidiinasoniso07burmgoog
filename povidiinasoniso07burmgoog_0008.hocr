@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasoniso07burmgoog_0008.png"; bbox 0 0 2930 4778; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 245 1687 1185 1831">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 245 1687 1185 1831">
+     <span class='ocr_line' id='line_1_1' title="bbox 245 1687 1185 1831; baseline -0.002 -23"><span class='ocrx_word' id='word_1_1' title='bbox 245 1692 324 1808; x_wconf 89' lang='grc' dir='ltr'>Ρ.</span> <span class='ocrx_word' id='word_1_2' title='bbox 377 1688 706 1810; x_wconf 87' lang='lat' dir='ltr'>OVIDII</span> <span class='ocrx_word' id='word_1_3' title='bbox 766 1687 1185 1831; x_wconf 85' lang='lat' dir='ltr'><strong>NASONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 443 2144 969 2288">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 443 2144 969 2288">
+     <span class='ocr_line' id='line_1_2' title="bbox 443 2144 969 2288; baseline -0.019 0"><span class='ocrx_word' id='word_1_4' title='bbox 443 2190 677 2288; x_wconf 75' lang='lat' dir='ltr'><strong>OPERA</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 717 2144 969 2285; x_wconf 68' lang='grc' dir='ltr'><strong>οΜΝιᾸ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 609 2668 1011 2794">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 609 2668 1011 2794">
+     <span class='ocr_line' id='line_1_3' title="bbox 609 2668 1011 2794; baseline -0.012 0"><span class='ocrx_word' id='word_1_6' title='bbox 609 2723 716 2794; x_wconf 67' lang='lat' dir='ltr'>von.</span> <span class='ocrx_word' id='word_1_7' title='bbox 743 2725 813 2790; x_wconf 90' lang='lat'>111.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1007 2668 1011 2678; x_wconf 41' lang='lat'>⁴</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1470 4778">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1470 4778">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1470 4778; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1470 4778; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
